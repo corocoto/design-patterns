@@ -1,0 +1,20 @@
+html,
+body {
+    background-color: #232323;
+    margin: 0;
+}
+
+.App {
+    font-family: sans-serif;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    background-color: #232323;
+}
+
+label {
+    color: white;
+}
