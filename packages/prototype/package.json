@@ -1,0 +1,15 @@
+{
+  "name": "@desing-patterns/prototype",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start-dog-example": "node src/dog-example.js",
+    "start-super-dog-example": "node src/super-dog-example.js",
+    "start-object-create-example": "node src/object-create-example.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
