@@ -1,0 +1,16 @@
+{
+  "name": "mediator-middleware-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "private": true,
+  "scripts": {
+    "server:run": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
