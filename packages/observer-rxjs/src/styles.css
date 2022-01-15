@@ -1,0 +1,16 @@
+html,
+body {
+    background-color: #232323;
+    margin: 0;
+}
+
+.App {
+    font-family: sans-serif;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #232323;
+    color: white;
+}
