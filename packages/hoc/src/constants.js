@@ -1,0 +1,1 @@
+export const LABRADOR_IMAGES_ENDPOINT = 'https://dog.ceo/api/breed/labrador/images/random/6';
