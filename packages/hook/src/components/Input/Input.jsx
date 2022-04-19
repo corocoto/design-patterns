@@ -1,7 +1,15 @@
 import React, { useState, useEffect } from 'react';
+import { useKeyPress } from '../../hooks';
 
 const Input = () => {
     const [value, setValue] = useState('');
+    const pressQ = useKeyPress('q');
+
+    useEffect(() => {
+      if (pressQ) {
+        console.log('Pressed Q');
+      }
+    }, [pressQ])
 
     const handleChange = (e) => {
         setValue(e.target.value);
