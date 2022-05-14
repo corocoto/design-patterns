@@ -1,0 +1,14 @@
+.flyoutButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #232323;
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+
+  cursor: pointer;
+  color: #ffffff;
+  border: none;
+}

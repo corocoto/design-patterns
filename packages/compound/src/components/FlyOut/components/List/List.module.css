@@ -1,0 +1,10 @@
+.flyoutList {
+  position: absolute;
+  top: 30px;
+  right: 0;
+  padding: 0;
+  width: 150px;
+
+  background-color: #292929;
+  box-shadow: 3px 3px 4px #141414;
+}
